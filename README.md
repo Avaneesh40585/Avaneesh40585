@@ -1,4 +1,4 @@
-# Hi there, I'm Avaneesh! 👋
+# Hi there, I'm Avaneesh!
 
 <p align="left">
   I'm a passionate developer with a strong interest in building full-stack applications and exploring the world of Artificial Intelligence. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
@@ -18,7 +18,7 @@ Here are a few technologies I've been working with recently:
 
 ---
 
-### 🚀 My Projects
+### My Projects
 
 I love to build things. Here are a few of my favorite projects:
 
@@ -31,7 +31,7 @@ I love to build things. Here are a few of my favorite projects:
 
 ---
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avaneesh40585&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -39,15 +39,3 @@ I love to build things. Here are a few of my favorite projects:
 </p>
 
 ---
-
-### 📫 How to Reach Me
-
-<p align="center">
-  <a href="mailto:avaneesh40585@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="[[YOUR_LINKEDIN_URL]](https://www.linkedin.com/in/avaneesh-muskula/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
