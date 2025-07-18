@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there, I'm Avaneesh! 👋
 
-<!--
-**Avaneesh40585/Avaneesh40585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  I'm a passionate developer with a strong interest in building full-stack applications and exploring the world of Artificial Intelligence. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+
+Here are a few technologies I've been working with recently:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,python,tensorflow,pytorch,opencv,git,github,vscode" />
+  </a>
+</p>
+
+---
+
+### 🚀 My Projects
+
+I love to build things. Here are a few of my favorite projects:
+
+| Project                                                                     | Description                                                               |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **🤖 [AI Image Generator](https://github.com/Avaneesh40585/AI-Image-Generator)** | An AI image generator built with the MERN stack and powered by OpenAI.    |
+| **🎥 [Video Calling App](https://github.com/Avaneesh40585/Video-calling-app)** | A real-time video communication platform.                                 |
+| **💬 [Real-Time Chat App](https://github.com/Avaneesh40585/Real-time-chat-app)** | A chat application using Socket.io for instant messaging.                 |
+| **🧠 [Face Recognition Attendance](https://github.com/Avaneesh40585/Face-recognition-based-attendance-system)** | An automated attendance system using computer vision to recognize faces. |
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avaneesh40585&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh40585&layout=compact&langs_count=8&theme=dracula"/>
+</p>
+
+---
+
+### 📫 How to Reach Me
+
+<p align="center">
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="[YOUR_LINKEDIN_URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
