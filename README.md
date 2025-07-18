@@ -12,7 +12,7 @@ Here are a few technologies I've been working with recently:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,python,tensorflow,pytorch,opencv,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bootstrap,react,nodejs,express,postman,postgres,tensorflow,pytorch,git,github,vscode,sublime" />
   </a>
 </p>
 
@@ -43,11 +43,11 @@ I love to build things. Here are a few of my favorite projects:
 ### 📫 How to Reach Me
 
 <p align="center">
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:avaneesh40585@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="[YOUR_LINKEDIN_URL]">
+  <a href="[[YOUR_LINKEDIN_URL]](https://www.linkedin.com/in/avaneesh-muskula/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
