@@ -6,13 +6,13 @@
 
 ---
 
-### 🛠️ My Tech Stack
+## My Tech Stack
 
 Here are a few technologies I've been working with recently:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bootstrap,react,nodejs,express,postman,postgres,tensorflow,pytorch,git,github,vscode,sublime" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bootstrap,react,nodejs,express,postman,postgres,sklearn,tensorflow,pytorch,git,github,vscode,sublime" />
   </a>
 </p>
 
@@ -34,8 +34,8 @@ I love to build things. Here are a few of my favorite projects:
 ### My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avaneesh40585&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh40585&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avaneesh40585&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh40585&layout=compact&langs_count=8&theme=ocean_dark"/>
 </p>
 
 ---
