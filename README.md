@@ -78,15 +78,7 @@ Make sure to check out my pinned repositories to find more projects organized by
 
 ## Feedback & Contact Me
 
-<table width="100%" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td width="50" valign="top" style="font-size: 4em; color: #58A6FF; line-height: 1; padding-right: 10px; border: none;">“</td>
-    <td valign="top" style="border: none;">
-      <i style="font-size: 1.1em;">I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.</i>
-      <p align="right" style="font-style: normal; font-size: 0.9em; margin-top: 1em;">– Elon Musk</p>
-    </td>
-  </tr>
-</table>
+![Quote](https://api.star-history.com/svg?quote=I%20think%20it%E2%80%99s%20very%20important%20to%20have%20a%20feedback%20loop%2C%20where%20you%E2%80%99re%20constantly%20thinking%20about%20what%20you%E2%80%99ve%20done%20and%20how%20you%20could%20be%20doing%20it%20better.&author=Elon%20Musk)
 
 I'm a big believer in that philosophy. I'm always open to new ideas and feedback on my work. Please feel free to reach out!
 
