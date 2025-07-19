@@ -31,6 +31,7 @@ Here are a few technologies I've been working with recently:
 | **[Snake Game](https://github.com/Avaneesh40585/Python-Projects/tree/main/Snake%20Game)** | Classic Snake game where the player grows the snake by eating food and avoids collisions. |
 
 Make sure to check out my pinned repositories to find more projects organized by domain.
+
 ---
 
 ### My GitHub Stats
