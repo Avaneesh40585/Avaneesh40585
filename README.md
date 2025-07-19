@@ -8,11 +8,40 @@ I love turning ideas into real applications on the screen. Whether I'm building 
 
 ## My Tech Stack
 
-Here are a few technologies I've been working with recently:
+Here's a breakdown of the technologies I work with:
 
+### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bootstrap,react,nodejs,express,postman,postgres,sklearn,tensorflow,pytorch,git,github,vscode,sublime" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css" />
+  </a>
+</p>
+
+### Frontend Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap" />
+  </a>
+</p>
+
+### Backend Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
+  </a>
+</p>
+
+### Machine Learning
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+  </a>
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,postman" />
   </a>
 </p>
 
@@ -39,4 +68,26 @@ Make sure to check out my pinned repositories to find more projects organized by
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avaneesh40585&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh40585&layout=compact&langs_count=8&theme=github_dark"/>
+</p>
+
+---
+
+---
+
+## Feedback & Contact Me
+
+> "I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+>
+> – Elon Musk
+
+I'm a big believer in that philosophy. I'm always open to new ideas and feedback on my work. Please feel free to reach out!
+
+<p align="center">
+  <a href="mailto:avaneesh40585@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/avaneesh-muskula/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
