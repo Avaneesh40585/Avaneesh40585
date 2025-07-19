@@ -80,8 +80,8 @@ Make sure to check out my pinned repositories to find more projects organized by
 
 <p align="center">
   <img 
-    src="https://github-readme-quotes-bay.vercel.app/quote?layout=zues&theme=dark&quote=I%20think%20it%E2%80%99s%20very%20important%20to%20have%20a%20feedback%20loop%2C%20where%20you%E2%80%99re%20constantly%20thinking%20about%20what%20you%E2%80%99ve%20done%20and%20how%20you%20could%20be%20doing%20it%20better.&author=Elon%20Musk" 
-    alt="Elon Musk quote"
+    src="https://github-readme-quotes-bay.vercel.app/quote?layout=zues&quote=I%20think%20it%E2%80%99s%20very%20important%20to%20have%20a%20feedback%20loop%2C%20where%20you%E2%80%99re%20constantly%20thinking%20about%20what%20you%E2%80%99ve%20done%20and%20how%20you%20could%20be%20doing%20it%20better.&author=Elon%20Musk" 
+    alt="Elon Musk feedback loop quote"
     style="max-width: 600px; border-radius: 8px;"
   />
 </p>
