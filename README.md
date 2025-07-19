@@ -78,7 +78,14 @@ Make sure to check out my pinned repositories to find more projects organized by
 
 ## Feedback & Contact Me
 
-<img src="data:image/svg+xml,%3csvg width='700' height='140' xmlns='http://www.w3.org/2000/svg'%3e%3cstyle%3e.card %7b font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; %7d .quote-text %7b font-style: italic; font-size: 16px; %7d .author-text %7b font-size: 14px; text-anchor: end; %7d .bar %7b fill: %2358A6FF; %7d @media (prefers-color-scheme: light) %7b .card %7b fill: %2324292E; %7d .background %7b fill: %23FFFFFF; stroke: %23E1E4E8; %7d %7d @media (prefers-color-scheme: dark) %7b .card %7b fill: %23CDD9E5; %7d .background %7b fill: %230D1117; stroke: %2330363D; %7d %7d%3c/style%3e%3crect class='background' x='0.5' y='0.5' width='699' height='139' rx='4.5'/%3e%3crect class='bar' x='20' y='20' width='5' height='100' rx='2.5'/%3e%3ctext class='card quote-text' x='45' y='45'%3e%3ctspan x='45' dy='0'%3eI think it%e2%80%99s very important to have a feedback loop, where you%e2%80%99re%3c/tspan%3e%3ctspan x='45' dy='1.4em'%3econstantly thinking about what you%e2%80%99ve done and how you could%3c/tspan%3e%3ctspan x='45' dy='1.4em'%3ebe doing it better.%3c/tspan%3e%3c/text%3e%3ctext class='card author-text' x='680' y='118'%3e%e2%80%93 Elon Musk%3c/text%3e%3c/svg%3e" alt="Quote about feedback by Elon Musk">
+<div align="center" style="max-width:600px; padding:1em; border-left:3px solid #2EA44F; background:#f6f8fa; border-radius:4px;">
+  <p style="margin:0; font-size:1rem; color:#24292e;">
+    “I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+  </p>
+  <p style="margin:0.5em 0 0; text-align:right; font-size:0.9rem; color:#57606a;">
+    — Elon Musk
+  </p>
+</div>
 
 I'm a big believer in that philosophy. I'm always open to new ideas and feedback on my work. Please feel free to reach out!
 
