@@ -34,8 +34,8 @@ I love to build things. Here are a few of my favorite projects:
 ### My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avaneesh40585&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh40585&layout=compact&langs_count=8&theme=ocean_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avaneesh40585&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh40585&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
 
 ---
