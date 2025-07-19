@@ -1,7 +1,7 @@
 # Hi there, I'm Avaneesh!
 
 <p align="left">
-I love turning ideas into real applications on the screen. Whether I'm building a web app for people to connect or using data to find something new, my goal is the same: to make things that are simple, useful, and fun to use. 
+For me, the reason I code is that I love the process of taking an idea—just a thought—and turning it into something real and interactive on a screen. Whether it's building a place for people to connect or a tool that uncovers hidden patterns, I'm driven by that moment of creation. That's why I focus on making things that are easy to use and maybe even a little bit fun. You can see what I've been working on below.
 </p>
 
 ---
@@ -78,13 +78,15 @@ Make sure to check out my pinned repositories to find more projects organized by
 
 ## Feedback & Contact Me
 
-<div style="padding: 10px 20px; text-align: center; max-width: 700px; margin: auto;">
-  <span style="font-family: Georgia, serif; font-size: 4em; color: #58A6FF; line-height: 0; position: relative; top: 25px;">“</span>
-  <p style="font-style: italic; font-size: 1.1em; margin: 0;">
-    I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.
-  </p>
-  <p align="right" style="font-style: normal; font-size: 0.9em; margin-top: 1em;">– Elon Musk</p>
-</div>
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="50" valign="top" style="font-size: 4em; color: #58A6FF; line-height: 1; padding-right: 10px; border: none;">“</td>
+    <td valign="top" style="border: none;">
+      <i style="font-size: 1.1em;">I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.</i>
+      <p align="right" style="font-style: normal; font-size: 0.9em; margin-top: 1em;">– Elon Musk</p>
+    </td>
+  </tr>
+</table>
 
 I'm a big believer in that philosophy. I'm always open to new ideas and feedback on my work. Please feel free to reach out!
 
