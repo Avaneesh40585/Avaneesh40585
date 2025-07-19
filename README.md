@@ -78,12 +78,7 @@ Make sure to check out my pinned repositories to find more projects organized by
 
 ## Feedback & Contact Me
 
-```text
-"I think it’s very important to have a feedback loop, where you’re constantly
- thinking about what you’ve done and how you could be doing it better.”
-
-                                                              – Elon Musk
-```
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=zeus&animation=grow_out_in&quote=I%20think%20it%E2%80%99s%20very%20important%20to%20have%20a%20feedback%20loop%2C%20where%20you%E2%80%99re%20constantly%20thinking%20about%20what%20you%E2%80%99ve%20done%20and%20how%20you%20could%20be%20doing%20it%20better.&author=Elon%20Musk)
 
 I'm a big believer in that philosophy. I'm always open to new ideas and feedback on my work. Please feel free to reach out!
 
