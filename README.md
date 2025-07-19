@@ -20,7 +20,7 @@ Here are a few technologies I've been working with recently:
 
 ### My Key Projects
 
-I love to build things. Here are a few of my favorite projects:
+ Here are some of my favorite projects:
 
 | Project                                                                     | Description                                                               |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
