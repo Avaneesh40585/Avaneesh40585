@@ -38,5 +38,3 @@ Here are a few technologies I've been working with recently:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avaneesh40585&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh40585&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
-
----
