@@ -84,10 +84,10 @@ I'm a big believer in that philosophy. I'm always open to new ideas and feedback
 
 <p align="center">
   <a href="mailto:avaneesh40585@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-avaneesh40585@gmail.com-D14836?style=social&logo=gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/avaneesh-muskula/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-avaneesh--muskula-0077B5?style=social&logo=linkedin" />
   </a>
 </p>
