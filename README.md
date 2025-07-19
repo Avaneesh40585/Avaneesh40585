@@ -12,37 +12,41 @@ Here's a breakdown of the technologies I work with:
 
 ### Languages
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css" />
-  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3"/></a>
 </p>
 
 ### Frontend Development
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap" />
-  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"/></a>
 </p>
 
 ### Backend Development
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
-  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="Express.js"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/></a>
 </p>
 
 ### Machine Learning
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn"/></a>
 </p>
 
 ### Tools & Platforms
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,postman" />
-  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code"/></a>
+  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text"/></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
 </p>
 
 ---
@@ -91,3 +95,5 @@ I'm a big believer in that philosophy. I'm always open to new ideas and feedback
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Connect with me on LinkedIn" />
   </a>
 </p>
+
+---
