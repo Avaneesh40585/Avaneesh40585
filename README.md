@@ -78,7 +78,22 @@ Make sure to check out my pinned repositories to find more projects organized by
 
 ## Feedback & Contact Me
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=zeus&animation=grow_out_in&quote=I%20think%20it%E2%80%99s%20very%20important%20to%20have%20a%20feedback%20loop%2C%20where%20you%E2%80%99re%20constantly%20thinking%20about%20what%20you%E2%80%99ve%20done%20and%20how%20you%20could%20be%20doing%20it%20better.&author=Elon%20Musk)
+<div align="center">
+  <blockquote style="  
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+      font-size: 1.2rem;  
+      color: #444;  
+      border-left: 4px solid #1DA1F2;  
+      padding: 0.5em 1em;  
+      background: #F7FAFC;  
+      border-radius: 4px;  
+      max-width: 600px;  
+      line-height: 1.6;
+  ">
+    <p>💡 <em>"I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better."</em></p>
+    <footer style="margin-top: 0.5em; font-weight: bold; color: #1DA1F2;">– Elon Musk</footer>
+  </blockquote>
+</div>
 
 I'm a big believer in that philosophy. I'm always open to new ideas and feedback on my work. Please feel free to reach out!
 
