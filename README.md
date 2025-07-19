@@ -1,7 +1,7 @@
 # Hi there, I'm Avaneesh!
 
 <p align="left">
-  I'm a passionate developer with a strong interest in building full-stack applications and exploring the world of Artificial Intelligence. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+I love turning ideas into real applications on the screen. Whether I'm building a web app for people to connect or using data to find something new, my goal is the same: to make things that are simple, useful, and fun to use. 
 </p>
 
 ---
@@ -18,7 +18,7 @@ Here are a few technologies I've been working with recently:
 
 ---
 
-### My Key Projects
+## My Key Projects
 
  Here are some of my favorite projects so far:
 
@@ -34,7 +34,7 @@ Make sure to check out my pinned repositories to find more projects organized by
 
 ---
 
-### My GitHub Stats
+## My GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avaneesh40585&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
