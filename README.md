@@ -90,9 +90,11 @@ Make sure to check out my pinned repositories to find more projects organized by
 I'm a big believer in that philosophy. I'm always open to new ideas and feedback on my work. Please feel free to reach out!
 
 <p align="center">
-  <a href="mailto:avaneesh40585@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=your@email.com&su=Subject%20Here&body=Type%20your%20message%20here"
+  target="_blank" rel="noopener noreferrer" >
     <img src="https://skillicons.dev/icons?i=gmail" alt="Contact me via Gmail" />
-  </a>
+</a>
+  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/avaneesh-muskula/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Connect with me on LinkedIn" />
