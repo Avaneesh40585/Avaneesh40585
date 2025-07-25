@@ -94,7 +94,7 @@ I'm a big believer in that philosophy. I'm always open to new ideas and feedback
   target="_blank" rel="noopener noreferrer" >
     <img src="https://skillicons.dev/icons?i=gmail" alt="Contact me via Gmail" />
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/avaneesh-muskula/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Connect with me on LinkedIn" />
   </a>
