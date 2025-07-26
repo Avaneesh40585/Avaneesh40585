@@ -57,6 +57,7 @@ Here's a breakdown of the technologies I work with:
 
 | Project                                                                     | Description                                                               |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **[Digit Recognition](https://github.com/Avaneesh40585/Digit-Recognition)** | Deep learning-based handwritten digit recognition on the MNIST dataset using PyTorch. Employs a modern CNN architecture with data augmentation, batch normalization, dropout, and early stopping for robust and accurate classification. |
 | **[Image Captioning System](https://github.com/Avaneesh40585/Image-Captioning)** | Advanced image captioning system using Transformer architecture that generates natural language descriptions for images. Combines EfficientNetB0 CNN for visual feature extraction with custom Transformer encoder-decoder for text generation. |
 | **[Secrets App](https://github.com/Avaneesh40585/Secrets-App)** | A modern anonymous secret-sharing application with local and Google OAuth authentication, featuring a rotating secrets carousel and Material Design UI. |
 | **[ToDo List](https://github.com/Avaneesh40585/ToDo-List)** | A full-stack task management application with CRUD operations. Users can add, edit, delete, and view tasks with persistent PostgreSQL storage. |
