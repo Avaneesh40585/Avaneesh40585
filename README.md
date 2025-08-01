@@ -58,12 +58,13 @@ Here's a breakdown of the technologies I work with:
 | Project                                                                     | Description                                                               |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | **[Digit Recognition](https://github.com/Avaneesh40585/Digit-Recognition)** | Deep learning-based handwritten digit recognition on the MNIST dataset using PyTorch. Employs a modern CNN architecture with data augmentation, batch normalization, dropout, and early stopping for robust and accurate classification. |
-| **[Image Captioning System](https://github.com/Avaneesh40585/Image-Captioning)** | Advanced image captioning system using Transformer architecture that generates natural language descriptions for images. Combines EfficientNetB0 CNN for visual feature extraction with custom Transformer encoder-decoder for text generation. |
+| **[Email Classification with BERT & RoBERTa](https://github.com/Avaneesh40585/Email-Spam-Classification)** | Email spam detection system featuring both BERT (DistilBERT) and optimized RoBERTa implementations. RoBERTa version includes anti-overfitting techniques (layer freezing, progressive dropout, early stopping), smart model detection, and achieves 99.48% accuracy with production-ready inference capabilities. |
 | **[Secrets App](https://github.com/Avaneesh40585/Secrets-App)** | A modern anonymous secret-sharing application with local and Google OAuth authentication, featuring a rotating secrets carousel and Material Design UI. |
 | **[ToDo List](https://github.com/Avaneesh40585/ToDo-List)** | A full-stack task management application with CRUD operations. Users can add, edit, delete, and view tasks with persistent PostgreSQL storage. |
 | **[Keeper App](https://github.com/Avaneesh40585/Keeper-App)** | A Google Keep-inspired note-taking app with React and Material UI. Users can add, view, and delete notes. |
 | **[Password Manager](https://github.com/Avaneesh40585/Python-Projects/tree/main/Password%20Manager)** | Securely stores, generates, and manages passwords with encryption and a master password. |
 | **[Snake Game](https://github.com/Avaneesh40585/Python-Projects/tree/main/Snake%20Game)** | Classic Snake game where the player grows the snake by eating food and avoids collisions. |
+
 
 
 Make sure to check out my pinned repositories to find more projects organized by domain.
