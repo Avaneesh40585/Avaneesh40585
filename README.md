@@ -4,6 +4,8 @@
 For me, the reason I code is that I love the process of taking an idea—just a thought—and turning it into something real and interactive on a screen. Whether it's building a place for people to connect or a tool that uncovers hidden patterns, I'm driven by that moment of creation. That's why I focus on making things that are easy to use and maybe even a little bit fun. You can see what I've been working on below.
 </p>
 
+**[Check out my portfolio website](https://avaneesh40585.github.io/Portfolio/)** to have a look into my projects and experience.
+
 ---
 
 ## My Tech Stack
