@@ -53,15 +53,6 @@ Here's a breakdown of the technologies I work with:
 
 ---
 
-## My GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avaneesh40585&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaneesh40585&layout=compact&langs_count=8&theme=github_dark"/>
-</p>
-
----
-
 ## Feedback & Contact Me
 
 <div align="center" style="max-width:600px; padding:1em; border-left:3px solid #2EA44F; background:#f6f8fa; border-radius:4px;">
