@@ -67,7 +67,7 @@ Here's a breakdown of the technologies I work with:
 I'm a big believer in that philosophy. I'm always open to new ideas and feedback on my work. Please feel free to reach out!
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avaneesh40585@gmail.com&su=Subject%20Here&body=Type%20your%20message%20here"
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=avaneesh40585@gmail.com"
   target="_blank" rel="noopener noreferrer" >
     <img src="https://skillicons.dev/icons?i=gmail" alt="Contact me via Gmail" />
   </a>
